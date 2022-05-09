@@ -4,7 +4,7 @@
 - 👀 I’m interested in web technologies. 
 - 🌱 I’m currently learning ReactJs and NextJs
 - 💞️ I’m looking to collaborate on projects which 
-- 📫 How to reach me Connect on Linkden. 
+- 📫 How to reach me Connect on [Linkden](https://www.linkedin.com/in/himanshu51/). 
 - 📧 Drop an email at himanshu17153@iiitd.ac.in
 
 
