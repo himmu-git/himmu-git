@@ -1,7 +1,7 @@
 **ABOUT ME**
 - 👋 Hi, I’m Himanshu
 - [Portfolio's Link](https://www.ihimanshu.in/). 
-- 🧑🏻‍💻 Currently I'm working as Senior Software Engineer (UI Developer) at Info Edge
+- 🧑🏻‍💻 Currently I'm working as Lead Engineer - Frontend Developer at Info Edge
 - 👀 I’m interested in web technologies. 
 - 🌱 I’m currently working with ReactJs and exploring nextjs
 - 💞️ I’m looking to collaborate on projects which 
