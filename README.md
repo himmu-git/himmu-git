@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Himanshu<br>🧑🏻‍💻 Currently I'm working as Lead Engineer - Frontend Developer at Info Edge<br>👀 I’m interested in web technologies.<br>🌱 I’m currently working with ReactJs and exploring nextjs<br>💞️ I’m looking to collaborate on projects which are challenging and web technologies Based<br>📫 How to reach me Connect on LinkedIn.<br>📧 Drop an email at himanshu17153@iiitd.ac.in<br>
+👋 Hi, I’m Himanshu<br>🧑🏻‍💻 Currently I'm working as Senior Member of Technical Staff @ Oracle<br>👀 I’m interested in web technologies.<br>🌱 I’m currently working with ReactJs and exploring nextjs<br>💞️ I’m looking to collaborate on projects which are challenging and web technologies Based<br>📫 How to reach me Connect on LinkedIn.<br>📧 Drop an email at himanshu17153@iiitd.ac.in<br>
 
 
 ## 🌐 Socials:
